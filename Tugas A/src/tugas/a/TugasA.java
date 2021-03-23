@@ -19,7 +19,7 @@ public class TugasA {
       {
         System.out.println("ini adalah tugas A :");
         System.out.println();
-        String[] namaLengkap = {"Dwi", "Agustina"};
+        String[] namaLengkap = {"Mohammad", "Rizaldi"};
         System.out.println("Namaku adalah " + namaLengkap[0] + " " + namaLengkap[1]);
     }
    }
